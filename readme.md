@@ -9,8 +9,11 @@ Sports Video Analytics for Ball Tracking and Player Identification Our Project f
 
 =======
 Contributor - Riyansh Verma 
+
 Contributor - Dhruv Sharma
+
 Contributor - Rajyavardhan Singh 
+
 <<<<<<< HEAD
 
 =======
