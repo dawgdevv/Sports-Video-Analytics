@@ -23,5 +23,5 @@
 - Nishant Raj
 - Dev Rishi Verma
 - Dhruv Sharma
-- Rajyavardhan Singh(Hagte hagte so gya tha #mahanti)
-- Riyansh Verma(Rajjo ki saaf kr raha tha #veryhardworking)
+- Rajyavardhan Singh
+- Riyansh Verma
