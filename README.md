@@ -7,7 +7,7 @@
 - Dataset-1 Link: [https://universe.roboflow.com/viren-dhanwani/tennis-ball-detection/dataset/6](https://universe.roboflow.com/viren-dhanwani/tennis-ball-detection/dataset/6)
 - Dataset-2 Link: [https://drive.google.com/file/d/1lhAaeQCmk2y440PmagA0KmIVBIysVMwu/view?usp=drive_link](https://drive.google.com/file/d/1lhAaeQCmk2y440PmagA0KmIVBIysVMwu/view?usp=drive_link)
 
-## Preprocessing
+## Processing
 
 - Convert videos to a suitable format for analysis (frames).
 
@@ -18,3 +18,10 @@
   -Ball Detection Model (Trained on Custom Dataset)
   -Player Identification Model (Pre-Trained)
   -Court Detection Model (Trained on Custom Dataset)
+
+## Contributors
+- Nishant Raj
+- Dev Rishi Verma
+- Dhruv Sharma
+- Rajyavardhan Singh(Hagte hagte so gya tha #mahanti)
+- Riyansh Verma(Rajjo ki saaf kr raha tha #veryhardworking)
